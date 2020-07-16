@@ -1,3 +1,9 @@
+*{
+  box-sizing: box-order;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Avenir Next";
 }
